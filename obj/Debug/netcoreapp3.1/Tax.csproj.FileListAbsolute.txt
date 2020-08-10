@@ -1,0 +1,13 @@
+F:\CursoCSharp\wp-csharp\Course10\Tax\bin\Debug\netcoreapp3.1\Tax.exe
+F:\CursoCSharp\wp-csharp\Course10\Tax\bin\Debug\netcoreapp3.1\Tax.deps.json
+F:\CursoCSharp\wp-csharp\Course10\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.json
+F:\CursoCSharp\wp-csharp\Course10\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.dev.json
+F:\CursoCSharp\wp-csharp\Course10\Tax\bin\Debug\netcoreapp3.1\Tax.dll
+F:\CursoCSharp\wp-csharp\Course10\Tax\bin\Debug\netcoreapp3.1\Tax.pdb
+F:\CursoCSharp\wp-csharp\Course10\Tax\obj\Debug\netcoreapp3.1\Tax.csprojAssemblyReference.cache
+F:\CursoCSharp\wp-csharp\Course10\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfoInputs.cache
+F:\CursoCSharp\wp-csharp\Course10\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfo.cs
+F:\CursoCSharp\wp-csharp\Course10\Tax\obj\Debug\netcoreapp3.1\Tax.csproj.CoreCompileInputs.cache
+F:\CursoCSharp\wp-csharp\Course10\Tax\obj\Debug\netcoreapp3.1\Tax.dll
+F:\CursoCSharp\wp-csharp\Course10\Tax\obj\Debug\netcoreapp3.1\Tax.pdb
+F:\CursoCSharp\wp-csharp\Course10\Tax\obj\Debug\netcoreapp3.1\Tax.genruntimeconfig.cache
